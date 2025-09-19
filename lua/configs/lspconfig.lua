@@ -5,3 +5,6 @@ vim.lsp.enable(servers)
 
 -- Java lsp
 vim.lsp.enable "jdtls"
+
+-- Python LSP
+vim.lsp.enable "basedpyright"
