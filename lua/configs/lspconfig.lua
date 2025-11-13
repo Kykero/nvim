@@ -8,3 +8,6 @@ vim.lsp.enable "jdtls"
 
 -- Python LSP
 vim.lsp.enable "basedpyright"
+
+-- Markdown LSP
+vim.lsp.enable "marksman"
