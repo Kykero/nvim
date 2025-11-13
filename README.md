@@ -30,13 +30,11 @@ Ceci est ma configuration personnelle de **Neovim** basée sur **NvChad**, avec 
 [Lazygit](https://github.com/kdheepak/lazygit.nvim)     
 [Comment.nvim](https://github.com/numToStr/Comment.nvim)  
   
-####   
-  
+#### WIP
 [markdown preview](https://github.com/iamcco/markdown-preview.nvim)    
 [conform](https://github.com/stevearc/conform.nvim?tab=readme-ov-file#installation)  
   
 ## Ressources
-
 [NvChad Github](https://github.com/NvChad/NvChad)
 [Neovim LSP Config](https://github.com/neovim/nvim-lspconfig)
 [Neovim](https://neovim.io/)
